@@ -5,7 +5,7 @@ _📍 Me considero una persona proactiva, resiliente, perseverante, creativa, qu
 _📍 ¿Qué es lo que disfruto?
 Del trabajo en equipo, me inspiran los desafíos, así que siempre hago todo lo posible para alcanzar mis objetivos y obtener los mejores resultados posibles.
 
-_📍En lo personal, soy fan de la actividad Física. 🤸‍♀️En mi tiempo libre me gusta diseñar.💻
+_📍En lo personal, soy fan de la actividad Física. 🤸‍♀️ En mi tiempo libre me gusta diseñar 💻
 
 ##
 
