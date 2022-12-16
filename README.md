@@ -1,4 +1,4 @@
-### 👋 Hola soy Caro, Full Stack Developer y Disegner 😁
+### 👋 Hola soy Caro, Desarrolladora Java y Diseñadora 😁
 
 _📍 Me considero una persona proactiva, resiliente, perseverante, creativa, que ama lo que hace, con muchas ganas de aprender y crecer, trato con seriedad y responsabilidad cada una de las tareas que se me asignen. 
 
