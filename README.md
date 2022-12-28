@@ -11,8 +11,8 @@ _📍En lo personal, soy fan de la actividad Física. 🤸‍♀️ En mi tiempo
 
 <div align="left">
   <a href="https://github.com/macarogo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macarogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macarogo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=macarogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macarogo&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
 <div style="display: inline_block"><br>
